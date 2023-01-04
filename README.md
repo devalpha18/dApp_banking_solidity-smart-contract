@@ -26,4 +26,4 @@ in the ethereum simulator Ganache and testnet Ropsten.
 * [Ganache-CLI](https://www.npmjs.com/package/ganache-cli) - Ethereum Simulator Ganache-CLI
 * [Metamask](https://metamask.io/) - Chrome extension
 * [Web3](https://web3js.readthedocs.io/en/1.0/) - Web3 JS
-* [Ropsten](https://ropsten.etherscan.io/) - Testnet
+* [Ropsten](https://ropsten.etherscan.io/) - Ropsten Testnet
